@@ -12,7 +12,7 @@ source .venv/bin/activate
 ## Instalación de las librerías
 
 ```bash
-pip3 flask
+pip3 install flask
 ```
 
 ## Youtube
